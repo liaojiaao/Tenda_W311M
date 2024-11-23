@@ -21,6 +21,7 @@ Thank you for choosing our product, please read the following precautions before
 5.15.171 是
 ieee80211_amsdu_to_8023s 7个参数
 
-6.1.116 是 8个参数
+6.1.x 是 8个参数   
+6.0.x 是 7个参数
 
-须解包修改 Version（ 6, 3, 0）修改为 6.1.116 
+须解包修改 Version（ 6, 3, 0）修改为 6.0.19 ？ 6.1.0
